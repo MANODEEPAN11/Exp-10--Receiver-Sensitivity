@@ -70,3 +70,6 @@ Steps:
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/c9a31e3f-b751-45cf-9542-fe52110ff841" />
 
 ---
+## Result
+The sensitivity of a PIN photodiode-based optical receiver is determined by calculating the minimum received power necessary to achieve a given Q factor and also simulated result is compared with obtained analytically.
+
